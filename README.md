@@ -1,36 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## What it is
 
-First, run the development server:
+a Next JS project that contains a search bar and Character cards. While playing the game "Stardew Valley", making friends is about giving gifts. It may be hard to remember who likes what unless you write it down or keep the wiki open. I created a simple search function that contains the loves, likes, neutrals, dislikes, and hates of each of the Marriage candidates.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Why did I create this?
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+My wife and I don't play too often so we tend to forget who likes what when we get back in our farm.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+On the technical side, I wanted to learn react without making a to-do list while that would've worked fine. By creating this simple app I have motivation to keep updating it with more characters, and more functionality because it serves us a purpose (and anyone who finds it useful).
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## What I learned with this project
 
-## Learn More
+Learned how useful creating a web app or website with React can be. Next JS pushed me to also learn tailwind CSS and the simple concepts of TypeScript. I realized React isn't so scary as it seemed at first when I tried to learn it in the beggining of the year.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+tldr; Learned:
+- React JS components
+- Tailwind CSS
+- some TypeScript
+- React Hooks
